@@ -9,10 +9,9 @@ A aplicação permite transformar textos em voz diretamente no navegador, possib
 - HTML
 - CSS
 - JavaScript
-- Web Speech API
 
 ### 📚 Objetivo
 
-Projeto desenvolvido para colocar em prática os conhecimentos adquiridos durante os estudos de JavaScript, trabalhando com manipulação do DOM, eventos e a API de síntese de voz do navegador.
+Projeto desenvolvido para colocar em prática os conhecimentos adquiridos durante os estudos de JavaScript, trabalhando com manipulação do DOM, e eventos.
 
 Um projeto simples, mas muito importante para continuar evoluindo na programação! 💻✨
